@@ -26,3 +26,10 @@ En este análisis verifico por primera vez si es posible predecir el sentimiento
 En ste ejercicio se comparan varios algoritmos de predicción de variables continuas, lo que comúnmente denominamos análisis de regresión. La variable a predecir son precios registrados en transacciones de derechos de agua en Chile, que se caracterizan por ser muy variables y contener una gran cantidad de valores outliers. Se comparan algunos modelos que provienen de la econometría con algoritmos típico de machine learning.
 
 ![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/Precios.jpg)
+
+## Modelos de series de tiempo: ARIMA
+
+### [Predicción del Imacec](https://github.com/guillermoacuna-lab/Portafolio/blob/main/ForecastingImacec.ipynb)
+En este ejercicio se hace una predicción del Imacec, el índice mensual de actividad económica, publicando por el Banco Central de Chile. El objetivo es ilustrar cómo utilizar modelos ARIMA estacionales (SARIMA) para hacer predicciones de series temporales.
+
+![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/Imacec.jpg)
