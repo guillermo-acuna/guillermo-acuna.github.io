@@ -60,3 +60,7 @@ En este ejercicio muestro cómo hacer diferentes tipos de análisis para segment
 
 ![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/Customer%20segmentation.png)
 
+### [Market Basket Analysis](https://github.com/guillermoacuna-lab/Portafolio/blob/main/MBAonlineRetail.ipynb)
+En esta notebook se usa una base de datos del repositorio de Machine Learning de UC Irvine para realizar Market Basket Analysis, es decir, para calcular una serie de reglas de asociación entre productos vendidos en un retail de UK. Dichas reglas permiten conocer productos que se venden en conjunto con otros productos con alta probabilidad.
+
+![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/Market%20basket%20analysis.png)
