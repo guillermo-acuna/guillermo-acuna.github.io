@@ -16,6 +16,11 @@ Nota: a veces GitHub tiene problemas para renderizar las notebooks. Si eso suced
 - [Cómo construir índices económicos](https://www.edalab.cl/economia/como-construir-indices-economicos/)
 - [Por qué usar software open source](https://www.edalab.cl/data-science/por-que-usar-software-open-source/)
 
+## Mis contribuciones académicas
+- [Google Scholar](https://scholar.google.cl/citations?user=lV-J7MsAAAAJ&hl)
+- [ResearchGate](https://www.researchgate.net/profile/Guillermo_Acuna3)
+- [Ideas](https://ideas.repec.org/e/pac70.html)
+
 ## Análisis del sentimiento de las noticias económicas en Chile (NLP)
 Este es un proyecto en desarrollo, que inicié en abril del año 2020. Por ahora tengo algunos análisis preliminares, que listo a continuación:
 
