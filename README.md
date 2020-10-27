@@ -20,7 +20,14 @@ En este análisis se clasifican las noticias económicas en base a un algoritmo 
 ### [Clasificación del sentimiento de las noticias económicas](https://github.com/guillermoacuna-lab/Portafolio/blob/main/SentimentNews.ipynb)
 En este análisis verifico por primera vez si es posible predecir el sentimiento de las noticias económicas con precisión. Con este objetivo comparé el desempeño de una regresión logística, red neuronal artificial, red neuronal con embeddings y LSTM. Sin embargo, por el momento la base de datos es pequeña,contiene menos de 1000 observaciones, por lo que no se obtienen los mejores resultados especialmente en el caso de las redes neuronales, que tienden a sobreajustarse a los datos. Este análisis se irá actualizando a medida que obtenga más datos.
 
-## Análisis de Regresión
+## Algoritmos de Clasificación
+
+### [Churn prediction](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Churn.ipynb)
+En este análisis se muestra cómo predecir la tasa de fuga de clientes (Churn rate) usando una base de datos de Kaggle y tres algoritmos de clasificación: la regresión logística, random forest y XGBoost.
+
+![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/Churn%20feature%20importances.png)
+
+## Algoritmos de Regresión
 
 ### [Predicción de los precios de los derechos de agua en Chile](https://github.com/guillermoacuna-lab/Portafolio/blob/main/VAC.ipynb)
 En ste ejercicio se comparan varios algoritmos de predicción de variables continuas, lo que comúnmente denominamos análisis de regresión. La variable a predecir son precios registrados en transacciones de derechos de agua en Chile, que se caracterizan por ser muy variables y contener una gran cantidad de valores outliers. Se comparan algunos modelos que provienen de la econometría con algoritmos típico de machine learning.
