@@ -52,3 +52,11 @@ En ste ejercicio se comparan varios algoritmos de predicción de variables conti
 En este ejercicio se hace una predicción del Imacec, el índice mensual de actividad económica, publicando por el Banco Central de Chile. El objetivo es ilustrar cómo utilizar modelos ARIMA estacionales (SARIMA) para hacer predicciones de series temporales.
 
 ![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/Imacec.jpg)
+
+## Marketing analysis
+
+### [Customer segmentation analysis](https://github.com/guillermoacuna-lab/Portafolio/blob/main/CustSeg.ipynb)
+En este ejercicio muestro cómo hacer diferentes tipos de análisis para segmentar clientes de una empresa: análisis de cohortes; y de Recency, Frequency & Monetary Value. La base de datos se obutvo del repositorio de Machine Learning de UC Irvine.
+
+![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/Customer%20segmentation.png)
+
