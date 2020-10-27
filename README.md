@@ -22,5 +22,7 @@ En este análisis verifico por primera vez si es posible predecir el sentimiento
 
 ## Análisis de Regresión
 
-### [Proyecto: Predicción de los precios de los derechos de agua en Chile]()
+### [Proyecto: Predicción de los precios de los derechos de agua en Chile](https://github.com/guillermoacuna-lab/Portafolio/blob/main/VAC.ipynb)
 En ste ejercicio se comparan varios algoritmos de predicción de variables continuas, lo que comúnmente denominamos análisis de regresión. La variable a predecir son precios registrados en transacciones de derechos de agua en Chile, que se caracterizan por ser muy variables y contener una gran cantidad de valores outliers. Se comparan algunos modelos que provienen de la econometría con algoritmos típico de machine learning.
+
+![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/Precios.jpg)
