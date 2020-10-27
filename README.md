@@ -14,4 +14,4 @@ Este es un proyecto en desarrollo, que inicié en abril del año 2020. Por ahora
 ## [Clústering de textos económicos](https://github.com/guillermoacuna-lab/portfolio/blob/main/Text%20Clustering.ipynb)
 En este análisis se clasifican las noticias económicas en base a un algoritmo de clústering, para encontrar patrones entre los diferentes tipos de noticias. Esta técnica es interesante, ya que se puede utilizar para clasificar las respuestas de preguntas abiertas en una encuesta, en que hacerlo de forma manual podría ser muy intensivo en tiempo. 
 
-[](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/wordcloudnoticias.jpg)
+![Wordcloud de noticias económicas](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/wordcloudnoticias.jpg)
