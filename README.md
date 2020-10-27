@@ -10,7 +10,12 @@ Si deseas contactarme me puedes encontrar en mis redes sociales:
 Además tengo un [sitio web](https://sites.google.com/view/guillermoacuna/home) donde puedes encontrar información adicional.
 
 Nota: a veces GitHub tiene problemas para renderizar las notebooks. Si eso sucede, se puede copiar y pegar el enlace de la notebook en [nbviewer](https://nbviewer.jupyter.org/).
- 
+
+## Mis artículos para EDALab
+- [Machine learning: ¿Qué significa que los algoritmos aprendan?](https://www.edalab.cl/data-science/machine-learning-que-significa-que-los-algoritmos-aprendan/)
+- [Cómo construir índices económicos](https://www.edalab.cl/economia/como-construir-indices-economicos/)
+- [Por qué usar software open source](https://www.edalab.cl/data-science/por-que-usar-software-open-source/)
+
 ## Análisis del sentimiento de las noticias económicas en Chile (NLP)
 Este es un proyecto en desarrollo, que inicié en abril del año 2020. Por ahora tengo algunos análisis preliminares, que listo a continuación:
 
