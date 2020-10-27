@@ -35,7 +35,7 @@ En este análisis verifico por primera vez si es posible predecir el sentimiento
 ## Algoritmos de Clasificación
 
 ### [Churn prediction](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Churn.ipynb)
-En este análisis se muestra cómo predecir la tasa de fuga de clientes (Churn rate) usando una base de datos de Kaggle y tres algoritmos de clasificación: la regresión logística, random forest y XGBoost.
+En este análisis se muestra cómo predecir la tasa de fuga de clientes (Churn rate) usando una base de datos de Kaggle y tres algoritmos de clasificación: la Regresión Logística, Random Forest y XGBoost.
 
 ![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/Churn%20feature%20importances.png)
 
