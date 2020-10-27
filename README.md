@@ -39,6 +39,11 @@ En este análisis se muestra cómo predecir la tasa de fuga de clientes (Churn r
 
 ![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/Churn%20feature%20importances.png)
 
+### [Sentiment Analysis de IMDB reviews](https://github.com/guillermoacuna-lab/Portafolio/blob/main/SentimentAnalysis.ipynb)
+En esta notebook se analizan los comentarios que califican las películas de IMDB. Se ajustan dos modelos para clasificar dichos comentarios como negativos y positivos: Naive Bayes y Logistic Regression.
+
+![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/Coeficientes.png)
+
 ## Algoritmos de Regresión
 
 ### [Predicción de los precios de los derechos de agua en Chile](https://github.com/guillermoacuna-lab/Portafolio/blob/main/VAC.ipynb)
