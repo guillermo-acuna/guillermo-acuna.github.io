@@ -17,6 +17,6 @@ En este análisis se clasifican las noticias económicas en base a un algoritmo 
 
 ![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/wordcloudnoticias.jpg)
 
-### [Clasificación del sentimiento de las noticias económicas]()
+### [Clasificación del sentimiento de las noticias económicas](https://github.com/guillermoacuna-lab/Portafolio/blob/main/SentimentNews.ipynb)
 En este análisis verifico por primera vez si es posible predecir el sentimiento de las noticias económicas con precisión. Con este objetivo comparé el desempeño de una regresión logística, red neuronal artificial, red neuronal con embeddings y LSTM. Sin embargo, por el momento la base de datos es pequeña,contiene menos de 1000 observaciones, por lo que no se obtienen los mejores resultados especialmente en el caso de las redes neuronales, que tienden a sobreajustarse a los datos. Este análisis se irá actualizando a medida que obtenga más datos.
 
