@@ -25,7 +25,7 @@ Nota: a veces GitHub tiene problemas para renderizar las notebooks. Si eso suced
 ## Análisis del sentimiento de las noticias económicas en Chile (NLP)
 Este es un proyecto en desarrollo, que inicié en abril del año 2020. Por ahora tengo algunos análisis preliminares, que listo a continuación:
 
-### [Clústering de textos económicos](https://github.com/guillermoacuna-lab/portfolio/blob/main/Text%20Clustering.ipynb)
+### [Clústering de textos económicos](https://nbviewer.jupyter.org/github/guillermoacuna-lab/portfolio/blob/main/Text%20Clustering.ipynb)
 En este análisis se clasifican las noticias económicas, en base a un algoritmo de clústering, para encontrar patrones asociados a los diferentes tipos de noticias. Esta técnica es muy interesante, ya que se puede utilizar para clasificar las respuestas de preguntas abiertas en una encuesta, en que hacerlo de forma manual podría ser muy intensivo en tiempo. 
 
 ![](./Images/wordcloudnoticias.jpg)
