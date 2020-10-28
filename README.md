@@ -9,7 +9,6 @@ Si deseas contactarme me puedes encontrar en mis redes sociales:
 
 Además tengo un [sitio web](https://sites.google.com/view/guillermoacuna/home) donde puedes encontrar información adicional.
 
-Nota: a veces GitHub tiene problemas para renderizar las notebooks. Si eso sucede, se puede copiar y pegar el enlace de la notebook en [nbviewer](https://nbviewer.jupyter.org/).
 
 ## Mis artículos para EDALab
 - [Por qué usar software open source](https://www.edalab.cl/data-science/por-que-usar-software-open-source/)
