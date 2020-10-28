@@ -12,9 +12,9 @@ Además tengo un [sitio web](https://sites.google.com/view/guillermoacuna/home) 
 Nota: a veces GitHub tiene problemas para renderizar las notebooks. Si eso sucede, se puede copiar y pegar el enlace de la notebook en [nbviewer](https://nbviewer.jupyter.org/).
 
 ## Mis artículos para EDALab
-- [Machine learning: ¿Qué significa que los algoritmos aprendan?](https://www.edalab.cl/data-science/machine-learning-que-significa-que-los-algoritmos-aprendan/)
-- [Cómo construir índices económicos](https://www.edalab.cl/economia/como-construir-indices-economicos/)
 - [Por qué usar software open source](https://www.edalab.cl/data-science/por-que-usar-software-open-source/)
+- [Cómo construir índices económicos](https://www.edalab.cl/economia/como-construir-indices-economicos/)
+- [Machine learning: ¿Qué significa que los algoritmos aprendan?](https://www.edalab.cl/data-science/machine-learning-que-significa-que-los-algoritmos-aprendan/)
 
 ## Mis contribuciones académicas
 - [Google Scholar](https://scholar.google.cl/citations?user=lV-J7MsAAAAJ&hl)
