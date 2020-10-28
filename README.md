@@ -28,8 +28,6 @@ Este es un proyecto en desarrollo, que inicié en abril del año 2020. Por ahora
 ### [Clústering de textos económicos](https://github.com/guillermoacuna-lab/portfolio/blob/main/Text%20Clustering.ipynb)
 En este análisis se clasifican las noticias económicas, en base a un algoritmo de clústering, para encontrar patrones asociados a los diferentes tipos de noticias. Esta técnica es muy interesante, ya que se puede utilizar para clasificar las respuestas de preguntas abiertas en una encuesta, en que hacerlo de forma manual podría ser muy intensivo en tiempo. 
 
-![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/wordcloudnoticias.jpg)
-
 ![](./Images/wordcloudnoticias.jpg)
 
 ### [Clasificación del sentimiento de las noticias económicas](https://github.com/guillermoacuna-lab/Portafolio/blob/main/SentimentNews.ipynb)
@@ -41,17 +39,17 @@ En este análisis verifico por primera vez si es posible predecir el sentimiento
 ### [Churn prediction (Predicción de la tasa de cancelación de clientes)](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Churn.ipynb)
 En este análisis se muestra cómo predecir la tasa de fuga de clientes (Churn rate) usando una base de datos de Kaggle y tres algoritmos de clasificación: Regresión Logística, Random Forest y XGBoost.
 
-![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/Churn%20feature%20importances.png)
+![](./Images/Churn%20feature%20importances.png)
 
 ### [Sentiment Analysis de IMDB reviews](https://github.com/guillermoacuna-lab/Portafolio/blob/main/SentimentAnalysis.ipynb)
 En esta notebook se analizan los comentarios que califican las películas de IMDB. Se ajustan dos modelos para clasificar dichos comentarios como negativos y positivos: Naive Bayes y Logistic Regression.
 
-![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/Coeficientes.png)
+![](./Images/Coeficientes.png)
 
 ### [Fraud detection (Detección de fraude)](https://github.com/guillermo-acuna/Portafolio/blob/main/SFDanalysis.ipynb)
 En este ejercicio se hacen predicciones de transacciones fraudulentas con una gran variedad de modelos de Machine Learning: Logistic Regression, Support Vector Machines, Decision tree, Random Forest, AdaBoost y XGBoost.
 
-![](https://github.com/guillermo-acuna/Portafolio/blob/main/Images/Features.png)
+![](./Images/Features.png)
 
 
 ## Algoritmos de Regresión
@@ -59,7 +57,7 @@ En este ejercicio se hacen predicciones de transacciones fraudulentas con una gr
 ### [Predicción de los precios de los derechos de agua en Chile](https://github.com/guillermoacuna-lab/Portafolio/blob/main/VAC.ipynb)
 En este ejercicio se comparan varios algoritmos de predicción de variables continuas, lo que comúnmente denominamos análisis de regresión. La variable a predecir son precios registrados en transacciones de derechos de agua en Chile, que se caracterizan por ser muy variables y contener una gran cantidad de valores outliers. Se comparan algunos modelos que provienen de la econometría con algoritmos típicos de machine learning.
 
-![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/Precios.jpg)
+![](./Images/Precios.jpg)
 
 
 ## Modelos de series de tiempo: ARIMA
@@ -67,7 +65,7 @@ En este ejercicio se comparan varios algoritmos de predicción de variables cont
 ### [Predicción del Imacec](https://github.com/guillermoacuna-lab/Portafolio/blob/main/ForecastingImacec.ipynb)
 En este ejercicio se hace una predicción del Imacec, el índice mensual de actividad económica, publicado por el Banco Central de Chile. El objetivo es ilustrar cómo utilizar modelos ARIMA estacionales (SARIMA) para hacer predicciones de series temporales.
 
-![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/Imacec.jpg)
+![](./Images/Imacec.jpg)
 
 
 ## Marketing analysis
@@ -75,9 +73,9 @@ En este ejercicio se hace una predicción del Imacec, el índice mensual de acti
 ### [Customer segmentation analysis](https://github.com/guillermoacuna-lab/Portafolio/blob/main/CustSeg.ipynb)
 En este ejercicio muestro cómo hacer diferentes tipos de análisis para segmentar clientes de una empresa: análisis de cohortes; y de Recency, Frequency & Monetary Value. La base de datos se obtuvo del repositorio de Machine Learning de UC Irvine.
 
-![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/Customer%20segmentation.png)
+![](./Images/Customer%20segmentation.png)
 
 ### [Market Basket Analysis](https://github.com/guillermoacuna-lab/Portafolio/blob/main/MBAonlineRetail.ipynb)
 En esta notebook uso una base de datos del repositorio de Machine Learning de UC Irvine para realizar Market Basket Analysis, es decir, para calcular una serie de reglas de asociación entre productos vendidos en un retail online de UK. Dichas reglas permiten conocer productos que se venderían en conjunto con otros productos con alta probabilidad, lo que es interesante desde el punto de vista del marketing.
 
-![](https://github.com/guillermoacuna-lab/Portafolio/blob/main/Images/Market%20basket%20analysis.png)
+![](./Images/Market%20basket%20analysis.png)
