@@ -11,6 +11,7 @@ Además tengo un [sitio web](https://sites.google.com/view/guillermoacuna/home) 
 
 
 ## Mis artículos para EDALab
+- [Qué es la regresión de cuantiles](https://www.edalab.cl/economia/que-es-la-regresion-de-cuantiles/)
 - [Por qué usar software open source](https://www.edalab.cl/data-science/por-que-usar-software-open-source/)
 - [Cómo construir índices económicos](https://www.edalab.cl/economia/como-construir-indices-economicos/)
 - [Machine learning: ¿Qué significa que los algoritmos aprendan?](https://www.edalab.cl/data-science/machine-learning-que-significa-que-los-algoritmos-aprendan/)
