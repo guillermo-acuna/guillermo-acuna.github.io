@@ -22,7 +22,9 @@ Además tengo un [sitio web](https://sites.google.com/view/guillermoacuna/home) 
 - [Ideas](https://ideas.repec.org/e/pac70.html)
 
 
-## [Cálculo del Índice de Percepción del Consumidor](https://nbviewer.jupyter.org/github/guillermo-acuna/guillermo-acuna.github.io/blob/main/Ipeco.ipynb)
+## Indicadores económicos
+
+### [Cálculo del Índice de Percepción del Consumidor](https://nbviewer.jupyter.org/github/guillermo-acuna/guillermo-acuna.github.io/blob/main/Ipeco.ipynb)
 Este es un proyecto en desarrollo, donde se muestra cómo calcular el índice de confianza del consumidor en base a las respuestas de encuestas a consumidores. Se utiliza principalmente Pandas.
 
 ![](./Images/Percepciones.jpg)
@@ -38,6 +40,7 @@ En este análisis se clasifican las noticias económicas, en base a un algoritmo
 ### [Clasificación del sentimiento de las noticias económicas](https://nbviewer.jupyter.org/github/guillermoacuna-lab/Portafolio/blob/main/SentimentNews.ipynb)
 En este análisis verifico por primera vez si es posible predecir el sentimiento de las noticias económicas con precisión. Con este objetivo comparé el desempeño de una regresión logística, una red neuronal artificial, una red neuronal con embeddings y LSTM. Sin embargo, por el momento la base de datos es pequeña, contiene menos de 1000 observaciones, por lo que no se obtienen resultados excelentes, especialmente en el caso de las redes neuronales que tienden a sobreajustarse a los datos. Este análisis se irá actualizando a medida que obtenga más datos.
 
+![](./Images/Loss vs Epochs.jpg)
 
 ## Algoritmos de Clasificación
 
