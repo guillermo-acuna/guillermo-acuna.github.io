@@ -22,6 +22,11 @@ Además tengo un [sitio web](https://sites.google.com/view/guillermoacuna/home) 
 - [Ideas](https://ideas.repec.org/e/pac70.html)
 
 
+## [Cálculo del Índice de Percepción del Consumidor](https://nbviewer.jupyter.org/github/guillermo-acuna/guillermo-acuna.github.io/blob/main/Ipeco.ipynb)
+Este es un proyecto en desarrollo, donde se muestra cómo calcular el índice de confianza del consumidor en base a las respuestas de encuestas a consumidores. Se utiliza principalmente Pandas.
+
+![](./Images/Percepciones.jpg)
+
 ## Análisis del sentimiento de las noticias económicas en Chile (NLP)
 Este es un proyecto en desarrollo, que inicié en abril del año 2020. Por ahora tengo algunos análisis preliminares, que listo a continuación:
 
