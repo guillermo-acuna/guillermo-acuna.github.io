@@ -22,7 +22,7 @@ Además tengo un [sitio web](https://sites.google.com/view/guillermoacuna/home) 
 - [Ideas](https://ideas.repec.org/e/pac70.html)
 
 ## Mi trabajo en el CEEN-UDD
-- [Sitio wed del CEEN](https://ceen.udd.cl/)
+- [Sitio web del CEEN](https://ceen.udd.cl/)
 - [Repositorio UDD (Descarga de reportes y datos)](https://repositorio.udd.cl/handle/11447/108)
 
 ## Indicadores económicos
