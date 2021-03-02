@@ -7,7 +7,7 @@ Si deseas contactarme me puedes encontrar en mis redes sociales:
 - [Twitter](https://twitter.com/guillermoacuna)
 - [LinkedIn](https://www.linkedin.com/in/guillermoacuna/)
 
-Además tengo un [sitio web](https://sites.google.com/view/guillermoacuna/home) donde puedes encontrar información adicional.
+Además tengo un [sitio web](https://sites.google.com/view/guillermoacunaweb/home) donde puedes encontrar información adicional.
 
 
 ## Mis artículos para EDALab
