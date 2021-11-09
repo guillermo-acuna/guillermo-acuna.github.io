@@ -22,4 +22,4 @@ Visita la web de mi proyecto personal, el [Observatorio de Percepciones Económi
 ## Repositorios en GitHub
 - En mi [GitHub](https://github.com/guillermo-acuna/guillermo-acuna.github.io) personal podrás encontrar algunos ejemplos de códigos en Python para aplicaciones en economía, eocnometría data science y machine learning.
 
-- En el GitHub del [Observatorio de Percepciones Económicas](https://github.com/percepcioneseconomicas) puedes encontrar una mayor cantidad de códigos, relacionados con el contenido del sitio web.
+- En el [GitHub del Observatorio de Percepciones Económicas](https://github.com/percepcioneseconomicas) puedes encontrar una mayor cantidad de códigos, relacionados con el contenido del sitio web.
