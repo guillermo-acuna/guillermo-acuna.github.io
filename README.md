@@ -20,6 +20,7 @@ Mis sitios académicos
 Visita la web de mi proyecto personal, el [Percepciones Económicas](https://www.percepcioneseconomicas.cl/), donde publico artículos relacionados con diversos temas que me interesan: economía, econometría, data science, filosofía, neurociencia, psicología, etc. También publico análisis y datos relacionados, con enlaces a las jupyter notebooks correspondientes.
 
 - En el [GitHub del Observatorio de Percepciones Económicas](https://github.com/percepcioneseconomicas) puedes encontrar datos y notebooks de Python relacionados con el contenido del sitio web.
+
 - En el canal de [YouTube](https://www.youtube.com/@PercepcionesEconomicas) podrás encontrar clases y otros contenidos relacionados con el sitio web.
 
 
