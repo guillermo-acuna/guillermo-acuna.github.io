@@ -70,37 +70,37 @@ Las siguientes notebooks no tienen muchas explicaciones, pero puedes encontrar l
 
 
 ### Machine Learning – Predicción del IMACEC con muchas variables
-[Notebook](https://github.com/percepcioneseconomicas/publicaciones/blob/main/prediccion_imacec/prediccion_imacec%20-%20pandemia.ipynb)
+[Notebook](https://github.com/percepcioneseconomicas/publicaciones/blob/main/prediccion_imacec/prediccion_imacec%20-%20pandemia.ipynb) | 
 [Blog](https://www.percepcioneseconomicas.cl/analisis/machine-learning-prediccion-del-imacec-con-muchas-variables/)
 
 ### Importancia relativa de la confianza de los consumidores
-[Notebook](https://github.com/percepcioneseconomicas/publicaciones/blob/main/importancia/importancia.ipynb)
+[Notebook](https://github.com/percepcioneseconomicas/publicaciones/blob/main/importancia/importancia.ipynb) | 
 [Blog](https://www.percepcioneseconomicas.cl/analisis/importancia-relativa-de-los-indices-de-confianza/)
 
 ### Análisis de regresión: IMACEC e índices de confianza
-[Notebook](https://github.com/percepcioneseconomicas/publicaciones/blob/main/imacec_regresiones/regresiones-imacec.ipynb)
+[Notebook](https://github.com/percepcioneseconomicas/publicaciones/blob/main/imacec_regresiones/regresiones-imacec.ipynb) | 
 [Blog](https://www.percepcioneseconomicas.cl/analisis/analisis-de-regresion-imacec-e-indices-de-confianza/)
 
 ### Indice de incertidumbre económica de Clapes UC y el IMACEC
-[Notebook](https://github.com/percepcioneseconomicas/publicaciones/blob/main/iiec_imacec/iiec_imacec.ipynb)
+[Notebook](https://github.com/percepcioneseconomicas/publicaciones/blob/main/iiec_imacec/iiec_imacec.ipynb) | 
 [Blog](https://www.percepcioneseconomicas.cl/analisis/indice-de-incertidumbre-economica-de-clapes-uc-y-el-imacec/)
 
 ### Encuesta de expectativas económicas: ¿Qué tan bien predice?
-[Notebook](https://github.com/percepcioneseconomicas/publicaciones/tree/main/bc_exp_imacec_inflacion)
+[Notebook](https://github.com/percepcioneseconomicas/publicaciones/tree/main/bc_exp_imacec_inflacion) | 
 [Blog](https://www.percepcioneseconomicas.cl/analisis/encuesta-de-expectativas-economicas-que-tan-bien-predice/)
 
 ### ¿Cómo se correlaciona el consumo agregado con la confianza de los consumidores?
-[Notebook](https://github.com/percepcioneseconomicas/publicaciones/blob/main/consumo_y_confianza/consumo_y_confianza.ipynb)
+[Notebook](https://github.com/percepcioneseconomicas/publicaciones/blob/main/consumo_y_confianza/consumo_y_confianza.ipynb) | 
 [Blog](https://www.percepcioneseconomicas.cl/analisis/como-se-correlaciona-el-consumo-agregado-con-la-confianza-de-los-consumidores/)
 
 ### Incertidumbre y Confianza: ¿Cómo se relacionan?
-[Notebook](https://github.com/percepcioneseconomicas/publicaciones/blob/main/incertidumbre_y_confianza/epuc_vs_confianza.ipynb)
+[Notebook](https://github.com/percepcioneseconomicas/publicaciones/blob/main/incertidumbre_y_confianza/epuc_vs_confianza.ipynb) | 
 [Blog](https://www.percepcioneseconomicas.cl/analisis/incertidumbre-y-confianza-como-se-relacionan/)
 
 ### Análisis del IPC en Chile
-[Notebook](https://github.com/percepcioneseconomicas/publicaciones/blob/main/variacion_precios/precios.ipynb)
+[Notebook](https://github.com/percepcioneseconomicas/publicaciones/blob/main/variacion_precios/precios.ipynb) | 
 [Blog](https://www.percepcioneseconomicas.cl/analisis/como-han-variado-los-precios-en-chile/)
 
 ### Cómo interpretar los índices de percepciones: escalas cualitativas
-[Notebook](https://github.com/percepcioneseconomicas/publicaciones/blob/main/escala_cualitativa/escala_cualitativa.ipynb)
+[Notebook](https://github.com/percepcioneseconomicas/publicaciones/blob/main/escala_cualitativa/escala_cualitativa.ipynb) | 
 [Blog](https://www.percepcioneseconomicas.cl/indices/como-interpretar-los-indices-de-percepciones-escalas-cualitativas/)
