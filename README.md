@@ -16,6 +16,8 @@ Mis sitios académicos
 - [Ideas (RePEc)](https://ideas.repec.org/e/pac70.html)
 
 
+---
+
 # Percepciones Económicas
 Visita la web de mi proyecto personal, el [Percepciones Económicas](https://www.percepcioneseconomicas.cl/), donde publico artículos relacionados con diversos temas que me interesan: economía, econometría, data science, filosofía, neurociencia, psicología, etc. También publico análisis y datos relacionados, con enlaces a las jupyter notebooks correspondientes.
 
@@ -24,7 +26,11 @@ Visita la web de mi proyecto personal, el [Percepciones Económicas](https://www
 - En el canal de [YouTube](https://www.youtube.com/@PercepcionesEconomicas) podrás encontrar clases y otros contenidos relacionados con el sitio web.
 
 
+---
+
 # Mi portafolio de Data Science
+
+---
 
 ## Aplicaciones económicas 
 
@@ -49,6 +55,7 @@ Esta [notebook](https://github.com/guillermo-acuna/guillermo-acuna.github.io/blo
 ### Clasificación de textos económicos
 En esta [notebook](https://github.com/guillermo-acuna/guillermo-acuna.github.io/blob/main/Text%20Clustering.ipynb) de hace una clasificación de textos económicos en base a un algoritmo de clústering.
 
+---
 
 ## Aplicaciones de Marketing
 
@@ -64,6 +71,7 @@ En esta [notebook](https://github.com/guillermo-acuna/guillermo-acuna.github.io/
 ### Market Basket Analysis - Online Retail Database
 En esta [notebook](https://github.com/guillermo-acuna/guillermo-acuna.github.io/blob/main/MBAonlineRetail.ipynb) se hace un análisis de la canasta de mercado de un retail online de UK. 
 
+---
 
 ## Otros análisis en Python (Percepciones Económicas)
 Las siguientes notebooks no tienen muchas explicaciones, pero puedes encontrar las explicaciones e interpretaciones en los blogs asociados.
