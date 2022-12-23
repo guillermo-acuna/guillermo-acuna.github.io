@@ -28,6 +28,7 @@ Visita la web de mi proyecto personal, el [Percepciones Económicas](https://www
 
 # Mi portafolio de Data Science
 
+[Repositorio](https://github.com/guillermo-acuna/guillermo-acuna.github.io)
 
 
 ## Aplicaciones económicas 
