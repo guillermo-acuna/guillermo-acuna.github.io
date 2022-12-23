@@ -26,10 +26,12 @@ Visita la web de mi proyecto personal, el [Percepciones Económicas](https://www
 
 # Mi portafolio de Data Science
 
-## Clasificador de Sentimiento Económico
+## Análisis económicos 
+
+### Clasificador de Sentimiento Económico
 En este [repositorio](https://github.com/percepcioneseconomicas/publicaciones/tree/main/econ-sent-class) se muestra cómo desarrollar un clasificador de sentimiento económico, un algoritmo que clasifica textos con contenido económico según su polaridad: pesimista, neutral u optimista. Se trata de un proyecto realizado desde cero, lo que implico elaborar una base de datos de noticias económicas con sus respectivas etiquetas. El desarrollo del proyecto también se puede encontrar en YouTube.
 
-## Predicción del IMACEC usando modelos SARIMA
+### Predicción del IMACEC usando modelos SARIMA
 En esta [notebook](https://github.com/guillermo-acuna/guillermo-acuna.github.io/blob/main/ForecastingImacec.ipynb) se muestra cómo hacer una predicción del IMACEC, el índice mensual de actividad económica del Banco Central, usando modelos SARIMA (Seasonal Autoregressive Integrated Moving Average).
 
 ## Indice de Percepción del Consumidor
