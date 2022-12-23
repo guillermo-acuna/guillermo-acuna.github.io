@@ -6,7 +6,7 @@ Si deseas contactarme me puedes encontrar en mis redes sociales:
 - [LinkedIn](https://www.linkedin.com/in/guillermoacuna/)
 
 Acá puedes encontrar mi CV actualizado:
-- [CV (dic-2022](https://1drv.ms/b/s!AknnacdUetsHhNoRckWx6dhfm-CPwA?e=BMd1Pe)
+- [CV (dic-2022)](https://1drv.ms/b/s!AknnacdUetsHhNoRckWx6dhfm-CPwA?e=BMd1Pe)
 
 # Observatorio de Percepciones Económicas
 Visita la web de mi proyecto personal, el [Observatorio de Percepciones Económicas](https://www.percepcioneseconomicas.cl/), donde publico artículos relacionados con diversos temas que me interesan: economía, econometría, data science, filosofía, neurociencia, psicología, etc. También publico análisis y datos relacionados con el estudio de las percepciones y expectativas económicas.
