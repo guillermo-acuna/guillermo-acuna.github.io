@@ -16,8 +16,6 @@ Mis sitios académicos
 - [Ideas (RePEc)](https://ideas.repec.org/e/pac70.html)
 
 
----
-
 ## Percepciones Económicas
 Visita la web de mi proyecto personal, el [Percepciones Económicas](https://www.percepcioneseconomicas.cl/), donde publico artículos relacionados con diversos temas que me interesan: economía, econometría, data science, filosofía, neurociencia, psicología, etc. También publico análisis y datos relacionados, con enlaces a las jupyter notebooks correspondientes.
 
@@ -30,7 +28,7 @@ Visita la web de mi proyecto personal, el [Percepciones Económicas](https://www
 
 # Mi portafolio de Data Science
 
----
+
 
 ## Aplicaciones económicas 
 
